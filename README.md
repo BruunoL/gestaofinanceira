@@ -3,16 +3,16 @@ Software desenvolvido para a empresa vendedora no ramo da alimentação Tradiç�
 
 Painel de Detalhes da conta:
 
-![Optional Text](../master/assets/img/account.png)
+![Optional Text](../master/assets/img/account.jpg)
 
 Painel de Vendas:
 
-![Optional Text](../master/assets/img/payments.png)
+![Optional Text](../master/assets/img/payments.jpg)
 
 Painel de Compras:
 
-![Optional Text](../master/assets/img/buyers.png)
+![Optional Text](../master/assets/img/buyers.jpg)
 
 Painel de Clientes:
 
-![Optional Text](../master/assets/img/clients.png)
+![Optional Text](../master/assets/img/clients.jpg)
